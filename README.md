@@ -1,6 +1,6 @@
-[![Gem Version](https://badge.fury.io/rb/color_gradient.svg)](https://rubygems.org/gems/color_gradient)
-
 # ColorGradient
+
+[![Gem Version](https://badge.fury.io/rb/color_gradient.svg)](https://rubygems.org/gems/color_gradient) [![Build Status](https://semaphoreci.com/api/v1/limeblast/color_gradient/branches/master/badge.svg)](https://semaphoreci.com/limeblast/color_gradient) [![Code Climate](https://codeclimate.com/repos/570a47dd821be51f730041a8/badges/7337139c1e8cbf70922f/gpa.svg)](https://codeclimate.com/repos/570a47dd821be51f730041a8/feed) [![Test Coverage](https://codeclimate.com/repos/570a47dd821be51f730041a8/badges/7337139c1e8cbf70922f/coverage.svg)](https://codeclimate.com/repos/570a47dd821be51f730041a8/coverage) [![Issue Count](https://codeclimate.com/repos/570a47dd821be51f730041a8/badges/7337139c1e8cbf70922f/issue_count.svg)](https://codeclimate.com/repos/570a47dd821be51f730041a8/feed)
 
 This, my first ever gem, takes a [gradient calculation class](http://tnux.net/blog/2011/10/26/gradient-calculation-in-ruby/) created by [Tom Pesman](http://tnux.net/), and makes it use [Color gem](https://github.com/halostatue/color) objects.
 
