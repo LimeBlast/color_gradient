@@ -1,3 +1,5 @@
+[![Gem Version](https://badge.fury.io/rb/color_gradient.svg)](https://rubygems.org/gems/color_gradient)
+
 # ColorGradient
 
 This, my first ever gem, takes a [gradient calculation class](http://tnux.net/blog/2011/10/26/gradient-calculation-in-ruby/) created by [Tom Pesman](http://tnux.net/), and makes it use [Color gem](https://github.com/halostatue/color) objects.
