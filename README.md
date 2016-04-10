@@ -1,7 +1,7 @@
 # ColorGradient
 
 [![Gem Version](https://badge.fury.io/rb/color_gradient.svg)](https://rubygems.org/gems/color_gradient)
-[![Build Status](https://semaphoreci.com/api/v1/limeblast/color_gradient/branches/master/badge.svg)](https://semaphoreci.com/limeblast/color_gradient)
+[![Build Status](https://semaphoreci.com/api/v1/limeblast/color_gradient/branches/master/shields_badge.svg)](https://semaphoreci.com/limeblast/color_gradient)
 [![Code Climate](https://codeclimate.com/github/LimeBlast/color_gradient/badges/gpa.svg)](https://codeclimate.com/github/LimeBlast/color_gradient)
 [![Test Coverage](https://codeclimate.com/github/LimeBlast/color_gradient/badges/coverage.svg)](https://codeclimate.com/github/LimeBlast/color_gradient/coverage)
 [![Issue Count](https://codeclimate.com/github/LimeBlast/color_gradient/badges/issue_count.svg)](https://codeclimate.com/github/LimeBlast/color_gradient)
