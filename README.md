@@ -5,6 +5,7 @@
 [![Code Climate](https://codeclimate.com/github/LimeBlast/color_gradient/badges/gpa.svg)](https://codeclimate.com/github/LimeBlast/color_gradient)
 [![Test Coverage](https://codeclimate.com/github/LimeBlast/color_gradient/badges/coverage.svg)](https://codeclimate.com/github/LimeBlast/color_gradient/coverage)
 [![Issue Count](https://codeclimate.com/github/LimeBlast/color_gradient/badges/issue_count.svg)](https://codeclimate.com/github/LimeBlast/color_gradient)
+[![Dependency Status](https://gemnasium.com/badges/github.com/LimeBlast/color_gradient.svg)](https://gemnasium.com/github.com/LimeBlast/color_gradient)
 
 This, my first ever gem, takes a [gradient calculation class](http://tnux.net/blog/2011/10/26/gradient-calculation-in-ruby/) created by [Tom Pesman](http://tnux.net/), and makes it use [Color gem](https://github.com/halostatue/color) objects.
 
