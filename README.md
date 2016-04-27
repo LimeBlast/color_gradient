@@ -43,11 +43,12 @@ color_gradient.gradient(4)
 color_gradient.gradient(5)
 color_gradient.gradient(6)
 color_gradient.gradient(7)
+
+# Or use as enumerable object
+color_gradient.each do |colour|
+  do_something(colour)
+end
 ```
-
-## Todo
-
-- Make the `ColorGradient` object enumerable to make it loopable.
 
 ## Development
 
