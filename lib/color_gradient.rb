@@ -1,6 +1,12 @@
-require "color_gradient/version"
+require 'color_gradient/version'
+require 'forwardable'
 
 class ColorGradient
+  include Enumerable
+  extend Forwardable
+
+  def_delegators :result_array, :each, :last, :[]
+
   def initialize(start, stop, resolution)
     raise ArgumentError, 'start Argument is not Color gem object' unless start.is_a? Color
     raise ArgumentError, 'stop Argument is not Color gem object' unless stop.is_a? Color
