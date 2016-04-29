@@ -6,13 +6,13 @@ describe ColorGradient do
     expect(ColorGradient::VERSION).not_to be nil
   end
 
+  subject { described_class.new(start, stop, resolution) }
+
   let(:start) { Color::RGB.new(0, 0, 0) }
   let(:stop) { Color::RGB.new(255, 255, 255) }
   let(:resolution) { 7 }
 
   context 'initializer' do
-    subject { described_class.new(start, stop, resolution) }
-
     context 'when using valid arguments' do
       it 'returns a ColorGradient object' do
         expect(subject).to be_instance_of ColorGradient
